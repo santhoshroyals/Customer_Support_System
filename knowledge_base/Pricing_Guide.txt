@@ -1,0 +1,86 @@
+# ABC Technologies Pricing Guide
+
+## Overview
+
+ABC Technologies provides cloud-based business management software designed for startups, small businesses, and large enterprises. Customers can choose from three subscription plans based on their business needs.
+
+---
+
+## Basic Plan
+
+Price:
+
+* $19 per month
+* $190 per year
+
+Features:
+
+* Up to 5 users
+* Cloud storage (20 GB)
+* Email support
+* Standard dashboard
+* Weekly data backup
+
+Recommended for:
+
+* Startups
+* Individual professionals
+* Small teams
+
+---
+
+## Professional Plan
+
+Price:
+
+* $49 per month
+* $490 per year
+
+Features:
+
+* Up to 50 users
+* Cloud storage (200 GB)
+* Priority email support
+* Phone support
+* Advanced analytics
+* Daily backup
+* API access
+
+Recommended for:
+
+* Small and medium businesses
+
+---
+
+## Enterprise Plan
+
+Price:
+
+* Custom pricing
+
+Features:
+
+* Unlimited users
+* Unlimited cloud storage
+* Dedicated account manager
+* 24×7 premium support
+* Custom integrations
+* Advanced security
+* Disaster recovery
+* SLA guarantee
+
+Recommended for:
+
+* Large organizations
+
+---
+
+## Subscription Information
+
+Customers can upgrade or downgrade their subscription at any time.
+
+Annual subscriptions receive a discount compared to monthly billing.
+
+Enterprise pricing is provided after consultation with the Sales team.
+
+For pricing-related questions, customers should contact the Sales Support department.

@@ -1,0 +1,91 @@
+# ABC Technologies Frequently Asked Questions (FAQ)
+
+## General Questions
+
+### What services does ABC Technologies provide?
+
+ABC Technologies provides cloud-based business management software for startups, small businesses, and enterprises.
+
+---
+
+## Account Questions
+
+### I forgot my password. What should I do?
+
+Click the **"Forgot Password"** option on the login page.
+
+Enter your registered email address.
+
+A password reset link will be sent to your email.
+
+Follow the instructions to create a new password.
+
+---
+
+### How can I update my profile?
+
+Go to:
+
+Profile → Account Settings → Edit Profile
+
+Update your information and click **Save Changes**.
+
+---
+
+### How do I activate my account?
+
+After registration, an activation email will be sent to your registered email address.
+
+Click the activation link to activate your account.
+
+---
+
+### How do I deactivate my account?
+
+Please contact Account Support.
+
+Account deactivation requests may require verification.
+
+---
+
+## Billing Questions
+
+### How can I download my invoice?
+
+Navigate to:
+
+Billing → Invoices
+
+Select the invoice you want to download.
+
+---
+
+### How do I update my payment method?
+
+Go to:
+
+Billing → Payment Settings
+
+Update your payment information and save the changes.
+
+---
+
+## Technical Questions
+
+### The application is slow.
+
+* Check your internet connection.
+* Restart the application.
+* Clear browser cache.
+* Contact Technical Support if the issue continues.
+
+---
+
+## Support
+
+If your question is not listed here, please contact the appropriate support department.
+
+* Sales Support
+* Technical Support
+* Billing Support
+* Account Support
